@@ -11,7 +11,7 @@
 
 ## Screenshots
 
-![Signup 1](https://github.com/ashgole/react_node_mongo/blob/main/public/screenshots/1.png)
+![Homepage 1](https://github.com/ashgole/hello-world-next/blob/main/public/screenshots/0.png)
 
 ```
 next setup
